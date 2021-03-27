@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tandooray</string>
+    <string name="facebook_app_id">177531707084823</string>
+    <string name="fb_login_protocol_scheme">fb177531707084823</string>
+
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "904500128414",
+    "project_id": "tandooray-app",
+    "storage_bucket": "tandooray-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904500128414:android:bf015f4fba93b6eac2698f",
+        "android_client_info": {
+          "package_name": "com.example.tandooray"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904500128414-6ruav26qsple3qq3be77bvuec2bfog8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX8hxckLcRR_n2tn4ktejOsC9_2KpuLGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904500128414-6ruav26qsple3qq3be77bvuec2bfog8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
