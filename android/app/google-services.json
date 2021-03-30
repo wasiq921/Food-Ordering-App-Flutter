@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "904500128414",
+    "firebase_url": "https://tandooray-app-default-rtdb.firebaseio.com",
     "project_id": "tandooray-app",
     "storage_bucket": "tandooray-app.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "904500128414-5s5etpfff6du9cfnn427lfrgcab79jb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tandooray",
+            "certificate_hash": "fe7c1cdf858b50eb768733d5ec5d737d93f0e11d"
+          }
+        },
         {
           "client_id": "904500128414-6ruav26qsple3qq3be77bvuec2bfog8d.apps.googleusercontent.com",
           "client_type": 3
